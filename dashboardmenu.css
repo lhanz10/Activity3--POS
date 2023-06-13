@@ -1,0 +1,32 @@
+.pane_1{
+    -fx-background-color: #087b83;
+    -fx-border-width: 2px 2px 2px 2px;
+    -fx-border-radius: 16px;
+    -fx-background-radius: 16px;
+    -fx-border-style: solid; 
+    -fx-border-color: #087b83;
+}
+
+.pane_2{
+    -fx-background-color: #0ddebb;
+    -fx-border-width: 2px 2px 2px 2px;
+    -fx-border-radius: 16px;
+    -fx-border-style: solid; 
+    -fx-border-color: #0ddebb;
+    
+}
+.pane_3{
+    -fx-background-color: #67c690;
+    -fx-border-width: 2px 2px 2px 2px;
+    -fx-border-radius: 16px;
+    -fx-border-style: solid; 
+    -fx-border-color: #67c690;
+    
+}
+.pane_products{
+    -fx-background-color: #67c690;
+    -fx-border-width: 2px 2px 2px 2px;
+    -fx-border-radius: 16px;
+    -fx-border-style: solid; 
+    -fx-border-color: #67c690;
+}
